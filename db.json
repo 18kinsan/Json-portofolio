@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"4.7.7","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"portofolio"},
+{"type":"table","name":"portofolio","database":"portofolio","data":
+[
+{"id":"1","proyek":"ngemount","jobdesk":"frontend "},
+{"id":"2","proyek":"seminarUGM","jobdesk":"backend"},
+{"id":"4","proyek":"cutiOnline","jobdesk":"backend"},
+{"id":"5","proyek":"quranQu","jobdesk":"programmer"}
+]
+}
+]
