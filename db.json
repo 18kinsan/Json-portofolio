@@ -4,30 +4,36 @@
     "category" : "Android Application",
     "title": "Cover Melody",
     "jobdesk": "UI/UX Designer",
-    "foto" : "comet"
+    "foto" : "mobile"
     }, {
     "id": 2,
-    "category" : "Web Application",
-    "title": "Nge-Mount",
-    "jobdesk": "Frontend Developer",
-    "foto" : "ngemount"
-    }, {
-    "id": 3,
     "category" : "Android Application",
     "title": "QuranQu",
     "jobdesk": "Programmer",
-    "foto" : "quranqu"
+    "foto" : "mobile"
+    }, {
+    "id": 3,
+    "category" : "Android Application",
+    "title": "Event ID",
+    "jobdesk": "UI/UX Designer",
+    "foto" : "mobile"
     }, {
     "id": 4,
     "category" : "Web Application",
     "title": "Seminar On Campus",
     "jobdesk": "Backend Developer",
-    "foto" : "seminar"
+    "foto" : "web"
     }, {
     "id": 5,
     "category" : "Web Application",
+    "title": "Nge-Mount",
+    "jobdesk": "Frontend Developer",
+    "foto" : "web"
+    }, {
+    "id": 6,
+    "category" : "Web Application",
     "title": "Sistem Informasi Cuti Online",
     "jobdesk": "Backend Developer",
-    "foto" : "cuti"
+    "foto" : "web"
     }]
 }
